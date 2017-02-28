@@ -1,0 +1,11 @@
+package chpater1;
+
+public class Dog {
+
+	private String name;
+
+	public void bark() {
+		Sysstem.out.println(name + " barks");
+	}
+
+}
